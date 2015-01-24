@@ -1,2 +1,2 @@
 # datasciencecoursera
-Initial repository for Coursers's Data Scientists Toolbox course
+Initial repository for Coursera's Data Scientists Toolbox course
